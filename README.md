@@ -22,8 +22,8 @@ UE5 Specific: This code is optimized for Unreal Engine 5. If you want to switch 
 
 -----
 
-my note:
-// how to use: add your own hook func and read/write memory
+my non CHATGPT note:
+// how to use: add your own hook func and read/write memory - update the offsets ofc
 
 /*
 ported this from my valorant to ue5, same shit very easy to use, if you want to switch this to valorant ue4.27 very easy just look at the docs
